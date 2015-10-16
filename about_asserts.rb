@@ -38,3 +38,5 @@ class AboutAsserts < Neo::Koan
     assert_equal 2, 1 + 1
   end
 end
+ 
+# Completed 20151016 1145 HST
